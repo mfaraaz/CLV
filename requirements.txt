@@ -1,4 +1,4 @@
-matplotlib==3.4.1
+matplotlib
 chart_studio==1.1.0
 pandas==1.2.3
 seaborn==0.11.1
